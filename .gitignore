@@ -420,3 +420,4 @@ id_rsa.pub
 *.log
 npm-debug.log*
 *.pkl
+project_report.md
