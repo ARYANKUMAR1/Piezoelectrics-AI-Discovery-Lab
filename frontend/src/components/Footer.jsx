@@ -77,21 +77,21 @@ const Footer = () => {
                             <SocialButton
                                 icon={<GitHubIcon />}
                                 label="GitHub"
-                                href="https://github.com/tusaryan"
-                                username="tusaryan"
+                                href="https://github.com/ARYANKUMAR1"
+                                username="ARYANKUMAR1"
                             />
                             <SocialButton
                                 icon={<LinkedInIcon />}
                                 label="LinkedIn"
-                                href="https://linkedin.com/in/tusaryan"
-                                username="tusaryan"
+                                href="https://linkedin.com/in/aryan-kumar-a045a5289"
+                                username="aryan-kumar-a045a5289"
                             />
-                            <SocialButton
+                            {/* <SocialButton
                                 icon={<TwitterIcon />}
                                 label="Twitter"
                                 href="#"
-                                username="tusaryan"
-                            />
+                                username="ARYANKUMAR1"
+                            /> */}
                             <SocialButton
                                 icon={<EmailIcon />}
                                 label="Email"
