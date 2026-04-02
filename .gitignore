@@ -30,8 +30,6 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
-lib64/
 parts/
 sdist/
 var/
@@ -69,3 +67,7 @@ data/models/*.csv
 
 # Backend generated models
 backend/saved_models/
+
+*.csv
+*.pkl
+/data
